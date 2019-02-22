@@ -2,27 +2,25 @@
 
 const calculadora = {};
 
+const ErrorMessageDivByZero = 'ERROR!';
+
 function sumar(a, b){
-    return 'El resultado de la operacion ' + a + ' + ' + b + ' es ' + (a + b);
+    return a + b;
 }
 
 function restar(a, b){
-    return 'El resultado de la operacion ' + a + ' - ' + b + ' es ' + (a - b);
+    return a - b;
 }
 
 function multiplicar(a, b){
-    return 'El resultado de la operacion ' + a + ' * ' + b + ' es ' + (a * b);
+    return a * b;
 }
 
 function dividir(a, b){    
 	if (b == 0) {
-		var msg = "ERROR! Can't divide by zero";
-        console.log(msg);
-		return new Error(msg);
-    } else if (a == 0) {        
-        return 'El resultado de la operacion ' + a + ' / ' + b + ' es 0';
+		return new Error(ErrorMessageDivByZero);
     } else {
-		return 'El resultado de la operacion ' + a + ' / ' + b + ' es ' + (a / b);
+		return a / b;
     }    
 }
 
@@ -30,5 +28,6 @@ calculadora.sumar = sumar;
 calculadora.restar = restar;
 calculadora.multiplicar = multiplicar;
 calculadora.dividir = dividir;
+calculadora.errorMsg_DivByZero = ErrorMessageDivByZero
 
 module.exports = calculadora; 

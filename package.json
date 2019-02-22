@@ -4,7 +4,7 @@
   "description": "Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colaborativo-para-node-js-en-github-y-potenci%C3%A1ndolo-con-59acaeaa42f3",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/QuiqueOlaso/demoNodeJS01/issues"
   },
-  "homepage": "https://github.com/QuiqueOlaso/demoNodeJS01#readme"
+  "homepage": "https://github.com/QuiqueOlaso/demoNodeJS01#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.1"
+  }
 }
