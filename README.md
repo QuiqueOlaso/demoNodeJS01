@@ -2,10 +2,10 @@
 Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colaborativo-para-node-js-en-github-y-potenci%C3%A1ndolo-con-59acaeaa42f3
 
 
-__Travis-ci__: [![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
+__Travis-ci__: 
+[![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
 
 __Sonarqube__: 
-
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=bugs)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=code_smells)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=coverage)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
