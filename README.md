@@ -1,8 +1,7 @@
 # demoNodeJS01
 Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colaborativo-para-node-js-en-github-y-potenci%C3%A1ndolo-con-59acaeaa42f3
 
-
-__Travis-ci__: 
+__Travis-CI__: 
 
 [![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
 
@@ -31,7 +30,7 @@ Including integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
 ### Folders Structure
 
-In the folder `app` is located the main code of the app
+In the folder `src` is located the main code of the app
 
 In the folder `test` is located the unit tests
 
@@ -57,5 +56,5 @@ $ npm test
 Execute:
 
 ```shell
-$ npm run cover
+$ npm run covernyc
 ```
