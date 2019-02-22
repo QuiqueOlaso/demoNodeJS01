@@ -4,6 +4,12 @@ Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colab
 
 [![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
 
+__Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=demoNodeJS01)](https://sonarcloud.io/dashboard/index/demoNodeJS01)
+[![Bugs](https://sonarcloud.io/api/badges/measure?key=demoNodeJS01&metric=bugs)]() [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=demoNodeJS01&metric=vulnerabilities)]()
+[![Technical Debt](https://sonarcloud.io/api/badges/measure?key=demoNodeJS01&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard/index/demoNodeJS01)
+[![Code Smells](https://sonarcloud.io/api/badges/measure?key=demoNodeJS01&metric=code_smells)](https://sonarcloud.io/dashboard/index/demoNodeJS01)
+[![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=demoNodeJS01&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/demoNodeJS01)
+
 -----------------------
 
 Implementation of a Simple Calculator with the next operations:
