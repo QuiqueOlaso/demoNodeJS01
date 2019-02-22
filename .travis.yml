@@ -6,4 +6,5 @@ jdk:
 addons:
   sonarcloud: true
 script:
+  - npm run covernyc
   - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=quiqueolaso-github -Dsonar.projectKey=QuiqueOlaso_demoNodeJS01 -Dsonar.sources='./src' -X
