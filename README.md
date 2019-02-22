@@ -17,6 +17,11 @@ __Coveralls__:
 
 [![Coverage Status](https://coveralls.io/repos/github/QuiqueOlaso/demoNodeJS01/badge.svg?branch=master)](https://coveralls.io/github/QuiqueOlaso/demoNodeJS01?branch=master)
 
+__Synk__: 
+
+[![Known Vulnerabilities](https://snyk.io/test/github/QuiqueOlaso/demoNodeJS01/badge.svg?targetFile=package.json)](https://snyk.io/test/github/QuiqueOlaso/demoNodeJS01?targetFile=package.json)
+
+
 -----------------------
 
 Implementation of a Simple Calculator with the next operations:
