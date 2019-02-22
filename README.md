@@ -3,14 +3,20 @@ Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colab
 
 
 __Travis-ci__: 
+
 [![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
 
 __Sonarqube__: 
+
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=bugs)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=code_smells)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=coverage)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=alert_status)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=sqale_index)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
+
+__Coveralls__: 
+
+[![Coverage Status](https://coveralls.io/repos/github/QuiqueOlaso/demoNodeJS01/badge.svg?branch=master)](https://coveralls.io/github/QuiqueOlaso/demoNodeJS01?branch=master)
 
 -----------------------
 
