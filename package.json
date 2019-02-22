@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "covernyc": "nyc mocha",
-	"coveralls": "npm run covernyc -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+	"coveralls": "nyc mocha && nyc report --reporter=lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
