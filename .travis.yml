@@ -1,3 +1,9 @@
 language: node_js
 node_js:
-  - "8.12"
+  - "8.12" 
+jdk:
+  - oraclejdk8
+addons:
+  sonarcloud: true
+script:
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=quiqueolaso-github -Dsonar.projectKey=QuiqueOlaso_demoNodeJS01 -Dsonar.sources='./src' -X
