@@ -2,13 +2,15 @@
 Basado en https://medium.com/@diegopm2000/creando-un-entorno-de-desarrollo-colaborativo-para-node-js-en-github-y-potenci%C3%A1ndolo-con-59acaeaa42f3
 
 
-[![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
+__Travis-ci__: [![Build Status](https://travis-ci.org/QuiqueOlaso/demoNodeJS01.svg?branch=master)](https://travis-ci.org/QuiqueOlaso/demoNodeJS01)
 
-__Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=QuiqueOlaso_demoNodeJS01)](https://sonarcloud.io/dashboard/index/QuiqueOlaso_demoNodeJS01)
-[![Bugs](https://sonarcloud.io/api/badges/measure?key=QuiqueOlaso_demoNodeJS01&metric=bugs)]() [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=QuiqueOlaso_demoNodeJS01&metric=vulnerabilities)]()
-[![Technical Debt](https://sonarcloud.io/api/badges/measure?key=QuiqueOlaso_demoNodeJS01&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard/index/QuiqueOlaso_demoNodeJS01)
-[![Code Smells](https://sonarcloud.io/api/badges/measure?key=QuiqueOlaso_demoNodeJS01&metric=code_smells)](https://sonarcloud.io/dashboard/index/QuiqueOlaso_demoNodeJS01)
-[![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=QuiqueOlaso_demoNodeJS01&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/QuiqueOlaso_demoNodeJS01)
+__Sonarqube__: 
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=bugs)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=code_smells)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=coverage)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=alert_status)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=QuiqueOlaso_demoNodeJS01&metric=sqale_index)](https://sonarcloud.io/dashboard?id=QuiqueOlaso_demoNodeJS01)
 
 -----------------------
 
